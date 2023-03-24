@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fem_menu_test/static/css/main.a3c9890b.css",
-    "main.js": "/fem_menu_test/static/js/main.4dd1519e.js",
+    "main.js": "/fem_menu_test/static/js/main.846d71da.js",
     "static/media/image-hero-desktop.png": "/fem_menu_test/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
     "static/media/image-hero-mobile.png": "/fem_menu_test/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
     "static/media/client-databiz.svg": "/fem_menu_test/static/media/client-databiz.d1e7955f847e089183caf61eb54feb51.svg",
@@ -17,10 +17,10 @@
     "static/media/icon-arrow-down.svg": "/fem_menu_test/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
     "static/media/icon-arrow-up.svg": "/fem_menu_test/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
     "main.a3c9890b.css.map": "/fem_menu_test/static/css/main.a3c9890b.css.map",
-    "main.4dd1519e.js.map": "/fem_menu_test/static/js/main.4dd1519e.js.map"
+    "main.846d71da.js.map": "/fem_menu_test/static/js/main.846d71da.js.map"
   },
   "entrypoints": [
     "static/css/main.a3c9890b.css",
-    "static/js/main.4dd1519e.js"
+    "static/js/main.846d71da.js"
   ]
 }
