@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fem_menu_test/static/css/main.76e1c1f9.css",
-    "main.js": "/fem_menu_test/static/js/main.517b2811.js",
+    "main.css": "/fem_menu_test/static/css/main.a3c9890b.css",
+    "main.js": "/fem_menu_test/static/js/main.c5e3bdd7.js",
     "static/media/image-hero-desktop.png": "/fem_menu_test/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
     "static/media/image-hero-mobile.png": "/fem_menu_test/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
     "static/media/client-databiz.svg": "/fem_menu_test/static/media/client-databiz.d1e7955f847e089183caf61eb54feb51.svg",
@@ -14,11 +14,13 @@
     "static/media/icon-planning.svg": "/fem_menu_test/static/media/icon-planning.7264cc64a81fa348da1d23defa87d2b5.svg",
     "static/media/icon-calendar.svg": "/fem_menu_test/static/media/icon-calendar.238c231afbc7d43b81c625ceea0d1b37.svg",
     "static/media/icon-todo.svg": "/fem_menu_test/static/media/icon-todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
-    "main.76e1c1f9.css.map": "/fem_menu_test/static/css/main.76e1c1f9.css.map",
-    "main.517b2811.js.map": "/fem_menu_test/static/js/main.517b2811.js.map"
+    "static/media/icon-arrow-down.svg": "/fem_menu_test/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
+    "static/media/icon-arrow-up.svg": "/fem_menu_test/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
+    "main.a3c9890b.css.map": "/fem_menu_test/static/css/main.a3c9890b.css.map",
+    "main.c5e3bdd7.js.map": "/fem_menu_test/static/js/main.c5e3bdd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.76e1c1f9.css",
-    "static/js/main.517b2811.js"
+    "static/css/main.a3c9890b.css",
+    "static/js/main.c5e3bdd7.js"
   ]
 }
